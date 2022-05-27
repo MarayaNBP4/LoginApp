@@ -10,4 +10,4 @@ Ejercicio.
  4. Verificar que se guarda la informacion en Authentification de firebase
 
 
-![Probar la conexión](https://github.com/MarayaNBP4/LoginApp/tree/master/Imagenes)
+![Probar la conexión](relative/path/to/Conexion.png?raw=tru)
