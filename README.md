@@ -10,4 +10,4 @@ Ejercicio.
  4. Verificar que se guarda la informacion en Authentification de firebase
 
 
-![Screenshot](Conexion.png)
+![Screenshot]((../master/Imagenes/Conexion.png))
